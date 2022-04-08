@@ -1,0 +1,60 @@
+body {
+    font-size: 1.125rem;
+    margin: 0 auto;
+    font-size: 1.125rem;
+    
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+
+.container {
+    
+    max-width: 980px;
+    margin: 0 auto;
+    
+}
+
+img {
+    max-width: 100%;
+}
+
+.columns {
+    display: flex;
+    background: pink;
+    margin: 1em 0;
+    
+}
+
+.col-one, .col-two, col-four {
+    color: #707070;
+}
+
+.columns, col-four {
+    color: #707070;
+}
+
+.col-three {
+    color: white;
+    background: #312614;
+    max-width: 20%;
+    padding: 1rem;
+}
+
+.col-one {
+    max-width: 30%;
+    padding-right: 1rem; 
+    
+    
+}
+
+.col-two {
+    max-width: 50% ; 
+    
+}
